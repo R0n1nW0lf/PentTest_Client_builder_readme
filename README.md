@@ -33,4 +33,3 @@ Then enter a client name like client2, and it creates:
 Author
 
 R0n1nW0lf
-Ethical Hacker | Cybersecurity Student
